@@ -1,0 +1,13 @@
+div{
+    background:#9980FA;
+    color: #fff;
+    width: 40%;
+    height: 140px;
+    padding: 30px;
+    margin: 10px;
+    border: 10px solid #000;
+    display:inline-block;
+    /*margin: 15px,10px 12px 5px;*/
+
+
+}

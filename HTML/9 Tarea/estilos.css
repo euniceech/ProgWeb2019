@@ -1,0 +1,34 @@
+header{
+    background: #badc58;
+    width: 900px;
+    height: 100px;
+    padding: 20px 0;
+    align-content: center;
+    text-align: center;
+    margin-left: 220px;
+}
+
+h1{
+    text-align: center;
+}
+hr{
+    background: #22a6b3;
+    height: 10px;
+}
+p{
+    line-height: 150%;
+    width: 950 px;
+    margin-right: 200px;
+    margin-left: 220px;
+    
+}
+font{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h4{
+    margin: 5px;
+    background: #badc58;
+    width: 900px;  
+    
+}
+

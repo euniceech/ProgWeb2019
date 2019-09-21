@@ -1,0 +1,22 @@
+body{
+    background:#6ab04c;
+}
+
+h1{
+    background:#ecf0f1;
+    text-align: center;
+    color:#2c3e50;  
+    border: solid 1px #2c3e50; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 4px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 5px;
+}
+p{
+    color:#2d3436;
+    margin-left: 60px;
+    margin-right: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+}

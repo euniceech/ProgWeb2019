@@ -1,0 +1,10 @@
+body{
+    /*background: url('../imagenes/circle-blues.png');
+    background-repeat: repeat;
+    background-position: center 50px;
+    color: aliceblue;*/
+    background: rgba(60, 165, 92, .5);  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, rgba(181, 172, 73, .5), rgba(60, 165, 92, .5)), url('../imagenes/circle-blues.png');  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, rgba(181, 172, 73,.5), rgba(60, 165, 92, .5)), url('../imagenes/circle-blues.png'); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}

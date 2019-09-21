@@ -1,0 +1,21 @@
+div{
+    width: 100px;
+    height: 100px;
+    background: orangered;
+    color: white;
+    font-size: 30px;
+    float: left;
+    margin: 5px;
+}
+
+img{
+    
+}
+/*}
+.caja{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 200px;
+}*/
